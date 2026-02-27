@@ -1,7 +1,7 @@
 Hi 👋 My name is Stanton Edwards
 ================================
 
-Business Inteligence Manager
+Business SOlution Architect
 ----------------------------
 
 As a seasoned Business Inteligence Manager, I specialize in crafting transformative digital ecosystems that empower businesses to thrive in the ever-evolving landscape of technology. With a keen focus on automation, data-driven insights, and user-centric design, I orchestrate seamless experiences that drive efficiency, innovation, and growth. 
